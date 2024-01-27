@@ -1,4 +1,7 @@
 ## Coin Flip Game
+
+<img width="50%" alt="coin-flip-game" src="https://github.com/jscoding10/coin-flip-game/assets/147340427/cece3c6f-e48d-44c4-acf4-903461cbfcba">
+
 This full-stack web application allows the user to press the Flip Coin button and it will track the number of times the coin lands on heads and tails. 
 The user can also push a Reset button to reset the count. The randomization of the coin flip occurs on the server. 
 
