@@ -7,11 +7,10 @@ The user can also push a Reset button to reset the count. The randomization of t
 
 ## Instructions
 To set up a local copy, follow these simple steps:  
-```
-1. git clon https://github.com/jscoding10/coin-flip-game.git  
-2. cd coin-flip-game-main
-3. npm install  
-4. npm start
+``` 
+1. cd coin-flip-game-main
+2. npm install  
+3. npm start
 ```
 The server runs on localhost:8000.  
 
